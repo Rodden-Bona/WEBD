@@ -1,3 +1,7 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
 .logo{
     width: 30vw;
     height: auto;
@@ -17,3 +21,4 @@ footer{
 .menu{
     background-color: #004780;
 }
+
