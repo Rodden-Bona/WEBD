@@ -1,5 +1,13 @@
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-size 16px;
+}
+
+header{
+    display: grid;
+    grid-template-columns: minmax(178vw,178vw);
+    width: auto;
+    height: 15vw;
 }
 
 .logo{
@@ -21,4 +29,3 @@ footer{
 .menu{
     background-color: #004780;
 }
-
