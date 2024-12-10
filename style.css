@@ -20,6 +20,13 @@ header{
     color: #004780;
 }
 
+button{
+    background-color: white;
+    color: #004780;
+    border-radius: 30px;
+    border-color: black;
+}
+
 .hero_pic{
     width: auto;
     height: 60vw;
@@ -40,4 +47,8 @@ footer{
 
 .menu{
     background-color: #004780;
+}
+
+.bottom-screen{
+    display: grid;
 }
