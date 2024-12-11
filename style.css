@@ -26,6 +26,11 @@ main{
     background-color: white;
 }
 
+select{
+    margin-bottom: 10px;
+}
+
+
 button{
     background-color: white;
     color: #004780;
