@@ -38,6 +38,18 @@ button{
     border-color: black;
 }
 
+.deletion{
+    background-color: crimson;
+    border-color: crimson;
+    color: black;
+}
+
+.cancel{
+    background-color: gold;
+    border-color: black;
+    color: black;
+}
+
 .hero_pic{
     width: auto;
     height: 60vw;
