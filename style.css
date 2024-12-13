@@ -50,6 +50,12 @@ button{
     color: black;
 }
 
+.confirm{
+    background-color: chartreuse;
+    color: black;
+    border-color: black;
+}
+
 .hero_pic{
     width: auto;
     height: 60vw;
